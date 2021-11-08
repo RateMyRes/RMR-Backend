@@ -1,2 +1,2 @@
 # RMR-Backend
-Backend code for the rate my residence website for UBC
+Backend code for the Rate My Residence UBC Website.
